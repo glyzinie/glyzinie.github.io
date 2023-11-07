@@ -1,0 +1,29 @@
+[
+  {
+    "id":0,
+    "name":"iNonius IPv4/IPv6",
+    "server":"https://inonius.net/",
+    "dlURL":"backend/garbage.php",
+    "ulURL":"backend/empty.php",
+    "pingURL":"backend/empty.php",
+    "getIpURL":"backend/getIP.php"
+  },
+  {
+    "id":1,
+    "name":"iNonius IPv4",
+    "server":"https://ipv4.inonius.net/",
+    "dlURL":"backend/garbage.php",
+    "ulURL":"backend/empty.php",
+    "pingURL":"backend/empty.php",
+    "getIpURL":"backend/getIP.php"
+  },
+  {
+    "id":2,
+    "name":"iNonius IPv6",
+    "server":"https://ipv6.inonius.net/",
+    "dlURL":"backend/garbage.php",
+    "ulURL":"backend/empty.php",
+    "pingURL":"backend/empty.php",
+    "getIpURL":"backend/getIP.php"
+  }
+]
